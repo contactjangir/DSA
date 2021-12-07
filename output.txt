@@ -1,0 +1,15 @@
+rjangir@rjangir-linux:/local/mnt/workspace/rjangir/WORKSPACE/DSA$ ./dsa
+
+ ------------ Signing -------------
+Enter a message(number) to sign:12345
+sign s1: 18
+sign s2: 25
+
+
+------------- Verifying -------------
+verifying message 12345 with sign (s1,s2) (18, 25)
+v: 18
+s1: 18
+
+ Verified successfully...
+rjangir@rjangir-linux:/local/mnt/workspace/rjangir/WORKSPACE/DSA$
